@@ -1,0 +1,17 @@
+{
+  "name": "content_scraper",
+  "version": "0.0.1",
+  "description": "Building a Content Scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikica Maksimovski",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.11.1",
+    "npm-start-command": "^0.2.0",
+    "scrape-it": "^3.3.3"
+  }
+}
